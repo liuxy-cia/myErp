@@ -10,7 +10,7 @@
 # 开发环境
 建议开发者使用以下环境，可以避免版本带来的问题
 * IDE: IntelliJ IDEA 2017+
-* DB: Mysql5.7+  (我自己是用的8)
+* DB: Mysql5.7+  (我自己是用的8) 
 * JDK: JDK1.8
 * Maven: Maven3.2.3+
 
