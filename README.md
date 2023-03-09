@@ -10,12 +10,12 @@
 # 开发环境
 建议开发者使用以下环境，可以避免版本带来的问题
 * IDE: IntelliJ IDEA 2017+
-* DB: Mysql5.7+
+* DB: Mysql5.7+  (我自己是用的8)
 * JDK: JDK1.8
 * Maven: Maven3.2.3+
 
 # 运行项目
-- 导入项目，配置maven。主要是因为代码打包有.idea文件，里面默认是我的配置，需要更改
+- 导入项目，配置maven。
 - 建立erp导入sql文件
 - 修改application.properties 的数据源配置
 - 启动项目,访问http://localhost:8080
